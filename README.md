@@ -1,6 +1,6 @@
 # calm-slack
 
-A calm skin for Slack — [calm](https://github.com/shakilclark/calm) fitted onto Slack's desktop app.
+A calm skin for Slack — [calm](https://github.com/therealshakil/calm) fitted onto Slack's desktop app.
 
 ## Apply
 
